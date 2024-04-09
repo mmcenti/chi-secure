@@ -39,8 +39,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/gin-contrib/secure"
 	"github.com/go-chi/chi/v5"
+	secure "github.com/mmcenti/chi-secure"
 )
 
 func main() {
