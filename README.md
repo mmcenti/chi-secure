@@ -5,7 +5,7 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/gin-contrib/secure)](https://goreportcard.com/report/github.com/gin-contrib/secure)
 [![GoDoc](https://godoc.org/github.com/gin-contrib/secure?status.svg)](https://godoc.org/github.com/gin-contrib/secure)
 
-Secure middleware for [Chi](https://github.com/go-chi/chi) framework. This is a fork from the [Gin version](https://github.com/gin-contrib/secure).
+Secure middleware for [Chi](https://github.com/go-chi/chi) framework. This is a port from the [Gin version](https://github.com/gin-contrib/secure).
 
 ## Example
 
